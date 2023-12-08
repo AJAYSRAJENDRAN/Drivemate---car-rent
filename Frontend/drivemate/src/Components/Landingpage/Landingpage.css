@@ -1,0 +1,13 @@
+.h3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    font-size: 60px; 
+    padding: 20px; /* Increased padding for better readability */
+    margin-top: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adding a text shadow */
+    font-family: 'Arial', sans-serif; /* Example: Changing font family */
+  }
